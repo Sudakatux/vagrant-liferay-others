@@ -1,0 +1,14 @@
+Vagrant Provision
+Includes :
+ - rvm with jruby
+ - nodejs
+ - java8
+ - maven
+ - mc 
+ - mongodb
+ - vim
+ - postgres
+ - mysql
+ - apache2
+ - php5
+
